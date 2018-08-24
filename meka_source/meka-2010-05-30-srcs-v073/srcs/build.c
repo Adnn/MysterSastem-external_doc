@@ -1,0 +1,2 @@
+char MEKA_BUILD_DATE[] = "2010/05/30";
+char MEKA_BUILD_TIME[] = "14:40:12";
